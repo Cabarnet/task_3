@@ -1,0 +1,4 @@
+pandas==2.3.3
+windows-curses==2.4.1
+python-docx==1.1.2   # для docx_utils
+openpyxl==3.1.5       # для работы с Excel
